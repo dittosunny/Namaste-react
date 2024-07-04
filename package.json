@@ -10,10 +10,10 @@
     "type": "git",
     "url": "git remote add origin https://github.com/dittosunny/Namaste-react.git"
   },
-  "keywords": [
-    "namaste",
-    "react"
-  ],
+  "keywords": [],
   "author": "Ditto",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
