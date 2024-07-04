@@ -1,0 +1,19 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is a react tutorial",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/dittosunny/Namaste-react.git"
+  },
+  "keywords": [
+    "namaste",
+    "react"
+  ],
+  "author": "Ditto",
+  "license": "ISC"
+}
